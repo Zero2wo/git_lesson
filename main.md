@@ -1,2 +1,2 @@
-# Wrong file
+# Main file
 ## Main feature file
